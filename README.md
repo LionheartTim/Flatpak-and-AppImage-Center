@@ -1,6 +1,8 @@
 # 📦 Flatpak and AppImage Center
 
 **Flatpak and AppImage Center** is 2 apps developed by me combined. The flatpak installer and the AppImage center are combined in one beautiful app.
+
+
 **Flatpak and AppImage Center** is a user-friendly, lightweight graphical user interface (GUI) built with Python and PyQt6. Designed specifically for **Bazzite** (and other Linux distributions), this tool combines two essential system maintenance utilities into a single, cohesive dashboard using a clean tabbed layout.
 
 With this application, you can effortlessly manage portable `.AppImage` programs and thoroughly uninstall `Flatpak` applications—including their hidden leftover configuration caches—without ever touching the terminal.
